@@ -4,7 +4,7 @@ This is my attempt at the Cloud Resume Challenge. It is a multiple-step resume p
 
 ## Architecture
 
-![AWS Architecture Diagram](https://github.com/user-attachments/assets/643da960-634b-4bb6-bfd7-604f0955fa66)
+![AWS Architecture Diagram](https://github.com/IbrahimAli9815/AWS_CloudResumeChallenge/blob/main/AWS%20Architecture%20Diagram.png)
 
 
 **Services Used**:
